@@ -8,7 +8,7 @@
 
 โดยProjectนี้ :
 จำลองโครงสร้างเครือข่าย LAN ด้วย Switch และกำหนดโครงสร้าง IPv4 Address แบบ Static ให้กับ Client และ Server
-ติดตั้งและกำหนดค่า DNS Service เพื่อแปลง Domain Name สำหรับบริการ Web (www.webserver.com) และ Mail (email.dusit.ac.th)
+ติดตั้งและกำหนดค่า DNS Service เพื่อแปลง Domain Name สำหรับบริการ Web (www.webserver.com) และ Mail
 คอนฟิกบริการ Web Server (HTTP) และแก้ไขหน้าเว็บเพจสำหรับทดสอบการเข้าถึงผ่าน Web Browser
 คอนฟิก Mail Server โดยใช้โปรโตคอล SMTP (ส่ง) และ POP3 (รับ) พร้อมสร้างบัญชีผู้ใช้และทดสอบการรับ-ส่งอีเมลระหว่างเครื่องลูกข่าย
 วิเคราะห์และแก้ปัญหาการเชื่อมต่อเครือข่าย (Network Troubleshooting) ด้วยเครื่องมือ ping และ nslookup
